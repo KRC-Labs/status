@@ -1,50 +1,42 @@
 # 📋 KRC Labs Systems Changelog
 
-| [KR 한국어](./docs/locales/ko.md) | [US English](./README.md) | [JP 日本語](./docs/locales/ja.md) | [CN 简体中文](./docs/locales/zh-CN.md) | [ES Español](./docs/locales/es.md) | [IN हिन्दी](./docs/locales/hi.md) |
+| [KR 한국어](./docs/locales/ko/CHANGELOG.md) | [US English](./CHANGELOG.md) | [JP 日本語](./docs/locales/ja/CHANGELOG.md) | [CN 简体中文](./docs/locales/zh-CN/CHANGELOG.md) | [ES Español](./docs/locales/es/CHANGELOG.md) | [IN हिन्दी](./docs/locales/hi/CHANGELOG.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [FR Français](./docs/locales/fr.md) | [DE Deutsch](./docs/locales/de.md) | [RU Русский](./docs/locales/ru.md) | [BR Português](./docs/locales/pt-BR.md) | [IT Italiano](./docs/locales/it.md) | [SA العربية](./docs/locales/ar.md) |
+| [FR Français](./docs/locales/fr/CHANGELOG.md) | [DE Deutsch](./docs/locales/de/CHANGELOG.md) | [RU Русский](./docs/locales/ru/CHANGELOG.md) | [BR Português](./docs/locales/pt-BR/CHANGELOG.md) | [IT Italiano](./docs/locales/it/CHANGELOG.md) | [SA العربية](./docs/locales/ar/CHANGELOG.md) |
 
-All notable engineering updates and version milestones are strictly documented in this file.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+> **Official Public Updates, Version Registry & Release Changelogs for KRC Labs Core Systems. All proprietary source trees remain 100% strictly private.**  
+> 🔗 **Navigation**: [README.md](./README.md) | 📊 [STATUS.md](./STATUS.md)
 
 ---
 
-## [2026-10-25] — Milestone 2026.Q4 Update
+## [2026-10-25] — Milestone 2026.Q4
 
 ### vibeside-mcp (v0.30.0)
-- **Added**: Client-side FPS telemetry observer & GPU compositing layer inspector.
-- **Added**: Integrated React Fiber & Vue AST click-to-component resolver.
-- **Changed**: Enhanced CDP session persistence across browser reloads.
+- **Feature**: Client-side FPS telemetry & GPU compositing layer inspector
 
 ### binvibe (v0.29.0)
-- **Added**: Automated binary entropy waterfall & micro-texture visualizer.
-- **Added**: Fast structural cross-referencing with Ghidra/Hex-Rays bridges.
+- **Feature**: Binary entropy waterfall & micro-texture visualizer
 
 ### netvibe (v0.5.0)
-- **Added**: Autonomous BGP-4 and OSPFv2/OSPFv3 control-plane protocol forensics.
-- **Added**: 65 FastMCP tools for zero-driver network analysis.
+- **Feature**: Autonomous BGP-4 & OSPFv2/OSPFv3 control-plane forensics
 
 ### vulnforge-mcp (v1.25.0)
-- **Added**: Automated micro-VM isolation & ephemeral sandbox attestation gate.
-- **Changed**: 25-tier comprehensive demo and audit rules update.
+- **Feature**: Micro-VM isolation & ephemeral sandbox attestation gate
 
 ### webarcheology-mcp (v1.14.0)
-- **Added**: Client-side security header and CSP bypass simulator.
-- **Changed**: 100% self-hosted asset integrity enforcement.
-
-### omnibrowse (v0.17.0)
-- **Added**: Intelligent HTTP/3 & QUIC transport engine.
-- **Changed**: Headless dual-core memory mapping optimization.
-
-### omni-control-mcp (v1.13.0)
-- **Added**: Zero-Trust PKI CA & mTLS Mesh with 28 core MCP tools.
-
-### remote-auto-ai-worker (v1.15.0)
-- **Added**: Content Security Policy & Dynamic SRI Synthesizer.
-
-### vidcompact-mcp (v1.11.0)
-- **Added**: Drawtext filter availability probe & target-size hardware encoding.
+- **Feature**: Client-side security header & CSP bypass simulator
 
 ### omni-audio-mcp (v1.0.0)
-- **Added**: 128/256/512-band FFT audio spectrum telemetry.
+- **Feature**: 512-band FFT audio spectrum telemetry
+
+### omni-control-mcp (v1.13.0)
+- **Feature**: Zero-Trust PKI CA & mTLS Mesh with 28 core MCP tools
+
+### omnibrowse (v0.17.0)
+- **Feature**: Intelligent HTTP/3 & QUIC transport engine
+
+### remote-auto-ai-worker (v1.15.0)
+- **Feature**: Content Security Policy & Dynamic SRI Synthesizer
+
+### vidcompact-mcp (v1.11.0)
+- **Feature**: Constrained two-pass encoding & target-size hardware acceleration

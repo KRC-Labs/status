@@ -1,18 +1,23 @@
-# 🌐 KRC Labs — Public Engineering Updates & Systems Status
+# 🌐 KRC Labs — Public Systems Status Registry & Release Matrix
 
-| [KR 한국어](./docs/locales/ko.md) | [US English](./README.md) | [JP 日本語](./docs/locales/ja.md) | [CN 简体中文](./docs/locales/zh-CN.md) | [ES Español](./docs/locales/es.md) | [IN हिन्दी](./docs/locales/hi.md) |
+| [KR 한국어](./docs/locales/ko/README.md) | [US English](./README.md) | [JP 日本語](./docs/locales/ja/README.md) | [CN 简体中文](./docs/locales/zh-CN/README.md) | [ES Español](./docs/locales/es/README.md) | [IN हिन्दी](./docs/locales/hi/README.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [FR Français](./docs/locales/fr.md) | [DE Deutsch](./docs/locales/de.md) | [RU Русский](./docs/locales/ru.md) | [BR Português](./docs/locales/pt-BR.md) | [IT Italiano](./docs/locales/it.md) | [SA العربية](./docs/locales/ar.md) |
+| [FR Français](./docs/locales/fr/README.md) | [DE Deutsch](./docs/locales/de/README.md) | [RU Русский](./docs/locales/ru/README.md) | [BR Português](./docs/locales/pt-BR/README.md) | [IT Italiano](./docs/locales/it/README.md) | [SA العربية](./docs/locales/ar/README.md) |
 
-> **Official Public Updates, Version Registry & Release Changelogs for KRC Labs Core Systems.**  
-> This repository strictly tracks public build milestones, runtime versions, and architecture updates across our 10 distributed systems without exposing internal proprietary source trees.
->
+> **Official Public Updates, Version Registry & Release Changelogs for KRC Labs Core Systems. All proprietary source trees remain 100% strictly private.**  
 > 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/)  
-> 📊 **Status Portal**: [STATUS.md](./STATUS.md) | 📋 **Changelog**: [CHANGELOG.md](./CHANGELOG.md) | 📄 **License**: [LICENSE](./LICENSE)
+> 📊 **Status Portal**: [STATUS.md](./STATUS.md) | 📋 **Changelog**: [CHANGELOG.md](./CHANGELOG.md)
 
 ---
 
-## 📦 Core Systems Status Matrix
+## 📑 Table of Contents
+1. [Core Systems Status Matrix](#-core-systems-status-matrix)
+2. [Architecture Specifications (STATUS)](#-architecture-specifications)
+3. [Source Code Isolation Guarantee](#-source-code-isolation-guarantee)
+
+---
+
+## 📦 System Health / Status
 
 | System | Domain | Current Version | Health / Status | Latest Public Milestone |
 | :--- | :---: | :---: | :---: | :--- |
@@ -27,8 +32,8 @@
 | **remote-auto-ai-worker** | Edge Computing | `v1.15.0` | 🟢 Stable | Content Security Policy & Dynamic SRI Synthesizer |
 | **vidcompact-mcp** | Media Encoding | `v1.11.0` | 🟢 Stable | Constrained two-pass encoding & target-size hardware acceleration |
 
+
 ---
 
 ## 🔒 Source Code Isolation Guarantee
-All proprietary source trees (`src/`, `crates/`, `tests/`, business logic, internal scripts) remain **100% strictly private** in internal organization repositories.  
-This public registry receives strictly audited metadata and version changelogs via automated verification gates.
+All proprietary source trees (`src/`, `crates/`, `tests/`) remain strictly confidential in private repositories.
