@@ -10,14 +10,7 @@
 
 ---
 
-## 📑 Table of Contents
-1. [Core Systems Status Matrix](#-core-systems-status-matrix)
-2. [Architecture Specifications (STATUS)](#-architecture-specifications)
-3. [Source Code Isolation Guarantee](#-source-code-isolation-guarantee)
-
----
-
-## 📦 System Health / Status
+## 📦 Core Systems Status Matrix
 
 | System | Domain | Current Version | Health / Status | Latest Public Milestone |
 | :--- | :---: | :---: | :---: | :--- |

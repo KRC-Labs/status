@@ -10,14 +10,7 @@
 
 ---
 
-## 📑 Indice
-1. [Matrice di Stato dei Sistemi](#-matrice-di-stato-dei-sistemi)
-2. [Specifiche di Architettura (STATUS)](#-specifiche)
-3. [Garanzia di Isolamento del Codice Sorgente](#-garanzia-di-isolamento)
-
----
-
-## 📦 Sistema Stato
+## 📦 Matrice di Stato dei Sistemi
 
 | Sistema | Dominio | Versione Attuale | Stato | Ultima Tappa Pubblica (Funzionalità Chiave) |
 | :--- | :---: | :---: | :---: | :--- |

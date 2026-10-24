@@ -10,14 +10,7 @@
 
 ---
 
-## 📑 Tabla de Contenidos
-1. [Matriz de Estado de Sistemas](#-matriz-de-estado-de-sistemas)
-2. [Especificaciones Detalladas (STATUS)](#-especificaciones)
-3. [Garantía de Aislamiento del Código Fuente](#-garantía-de-aislamiento)
-
----
-
-## 📦 Sistema Estado
+## 📦 Matriz de Estado de Sistemas
 
 | Sistema | Dominio | Versión Actual | Estado | Último Hito Público (Características Clave) |
 | :--- | :---: | :---: | :---: | :--- |

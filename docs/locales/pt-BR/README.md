@@ -10,14 +10,7 @@
 
 ---
 
-## 📑 Índice
-1. [Matriz de Status dos Sistemas](#-matriz-de-status-dos-sistemas)
-2. [Especificações de Arquitetura (STATUS)](#-especificações)
-3. [Garantia de Isolamento do Código-Fonte](#-garantia-de-isolamento)
-
----
-
-## 📦 Sistema Saúde / Status
+## 📦 Matriz de Status dos Sistemas
 
 | Sistema | Domínio | Versão Atual | Saúde / Status | Último Marco Público (Recursos Principais) |
 | :--- | :---: | :---: | :---: | :--- |

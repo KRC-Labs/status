@@ -10,14 +10,7 @@
 
 ---
 
-## 📑 Inhaltsverzeichnis
-1. [Systemstatus-Matrix](#-systemstatus-matrix)
-2. [Detaillierte Architekturspezifikationen (STATUS)](#-spezifikationen)
-3. [Quellcode-Isolationsgarantie](#-quellcode-isolationsgarantie)
-
----
-
-## 📦 System Status
+## 📦 Systemstatus-Matrix
 
 | System | Domäne | Aktuelle Version | Status | Neuester öffentlicher Meilenstein |
 | :--- | :---: | :---: | :---: | :--- |

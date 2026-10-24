@@ -10,14 +10,7 @@
 
 ---
 
-## 📑 Table des Matières
-1. [Matrice d'État des Systèmes](#-matrice-détat-des-systèmes)
-2. [Spécifications d'Architecture (STATUS)](#-spécifications)
-3. [Garantie d'Isolation du Code Source](#-garantie-disolation)
-
----
-
-## 📦 Système Santé / État
+## 📦 Matrice d'État des Systèmes
 
 | Système | Domaine | Version Actuelle | Santé / État | Dernier Jalon Public (Fonctionnalités Clés) |
 | :--- | :---: | :---: | :---: | :--- |

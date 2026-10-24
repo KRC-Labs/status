@@ -1,79 +1,72 @@
-# 📊 Systems Status & Compatibility Registry
+# 📊 KRC Labs Registro de Compatibilidad y Especificaciones Técnicas
 
 | [KR 한국어](../ko/STATUS.md) | [US English](../../STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](../zh-CN/STATUS.md) | [ES Español](./STATUS.md) | [IN हिन्दी](../hi/STATUS.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/STATUS.md) | [DE Deutsch](../de/STATUS.md) | [RU Русский](../ru/STATUS.md) | [BR Português](../pt-BR/STATUS.md) | [IT Italiano](../it/STATUS.md) | [SA العربية](../ar/STATUS.md) |
 
-> **Registro público oficial para rastrear hitos de compilación, versiones en tiempo de ejecución y actualizaciones de arquitectura en los 10 sistemas distribuidos de KRC Labs, manteniendo el código fuente 100% privado.**  
-> 🔗 **Navigation**: [README.md](./README.md) | 📋 [CHANGELOG.md](./CHANGELOG.md)
+> **Especificaciones arquitectónicas detalladas, compatibilidad de tiempo de ejecución y registro de funciones clave.**  
+> 🔗 **Navegación Rápida**: [README.md](./README.md) | 📋 [CHANGELOG.md](./CHANGELOG.md)
 
 ---
 
-## 📑 📑 Tabla de Contenidos
-1. [Runtime & DevTools Systems](#1-runtime--devtools-systems)
-2. [Distributed & Security Systems](#2-distributed--security-systems)
-3. [Network, Control & Media Engines](#3-network-control--media-engines)
-
----
-
-## 1. Runtime & DevTools Systems
+## 1. Sistemas de Tiempo de Ejecución y DevTools
 
 ### vibeside-mcp
-- **Version**: `v0.30.0`
-- **Target**: Node.js >= 20.0.0 / Standalone Native Executable
-- **Protocol**: Model Context Protocol (MCP) Standard v1.0
-- **Telemetry**: FastMCP Direct IPC / CDP Port 9315
-- **Features**: Observador de telemetría FPS y capa de composición GPU
+- **Versión Actual**: `v0.30.0`
+- **Objetivo de Ejecución**: Node.js >= 20.0.0 / Standalone Native Binary
+- **Protocolo**: Model Context Protocol (MCP) v1.0
+- **Telemetría**: FastMCP Direct IPC / CDP Port 9315
+- **Funciones Clave**: Observador de telemetría FPS y capa de composición GPU
 
 ### omnibrowse
-- **Version**: `v0.17.0`
-- **Target**: Rust 1.80+ (Dual-Core Architecture)
-- **Features**: Motor de transporte inteligente HTTP/3 y QUIC
+- **Versión Actual**: `v0.17.0`
+- **Objetivo de Ejecución**: Rust 1.80+ (Dual-Core Engine)
+- **Funciones Clave**: Motor de transporte inteligente HTTP/3 y QUIC
 
 ---
 
-## 2. Distributed & Security Systems
+## 2. Sistemas Distribuidos y de Seguridad
 
 ### remote-auto-ai-worker
-- **Version**: `v1.15.0`
-- **Target**: TypeScript Serverless Gateway
-- **Features**: Política de seguridad de contenido (CSP) y sintetizador SRI dinámico
+- **Versión Actual**: `v1.15.0`
+- **Objetivo de Ejecución**: TypeScript Serverless Gateway
+- **Funciones Clave**: Política de seguridad de contenido (CSP) y sintetizador SRI dinámico
 
 ### vulnforge-mcp
-- **Version**: `v1.25.0`
-- **Target**: Multi-engine Static & Dynamic Audit Framework
-- **Features**: Aislamiento de micro-VM y puerta de atestación de sandbox efímero
+- **Versión Actual**: `v1.25.0`
+- **Objetivo de Ejecución**: Static & Dynamic Forensic Engine
+- **Funciones Clave**: Aislamiento de micro-VM y puerta de atestación de sandbox efímero
 
 ### binvibe
-- **Version**: `v0.29.0`
-- **Target**: Rust Native PE/ELF Decompiler Bridge
-- **Features**: Cascada de entropía binaria y visualizador de microtextura
+- **Versión Actual**: `v0.29.0`
+- **Objetivo de Ejecución**: Rust Native PE/ELF Decompiler Bridge
+- **Funciones Clave**: Cascada de entropía binaria y visualizador de microtextura
 
 ---
 
-## 3. Network, Control & Media Engines
+## 3. Motores de Red, Plano de Control y Medios
 
 ### omni-control-mcp
-- **Version**: `v1.13.0`
-- **Target**: TypeScript Orchestrator
-- **Features**: PKI CA de confianza cero y malla mTLS con 28 herramientas MCP
+- **Versión Actual**: `v1.13.0`
+- **Objetivo de Ejecución**: TypeScript Orchestrator
+- **Funciones Clave**: PKI CA de confianza cero y malla mTLS con 28 herramientas MCP
 
 ### netvibe
-- **Version**: `v0.5.0`
-- **Target**: C/Rust Native Low-Level Engine
-- **Features**: Forense de protocolos de plano de control autónomo BGP-4 y OSPF
+- **Versión Actual**: `v0.5.0`
+- **Objetivo de Ejecución**: C/Rust Native Low-Level Engine
+- **Funciones Clave**: Forense de protocolos de plano de control autónomo BGP-4 y OSPF
 
 ### webarcheology-mcp
-- **Version**: `v1.14.0`
-- **Target**: TypeScript Forensics Engine
-- **Features**: Cabecera de seguridad del cliente y simulador de evasión de CSP
+- **Versión Actual**: `v1.14.0`
+- **Objetivo de Ejecución**: TypeScript Forensics Engine
+- **Funciones Clave**: Cabecera de seguridad del cliente y simulador de evasión de CSP
 
 ### vidcompact-mcp
-- **Version**: `v1.11.0`
-- **Target**: C++/Node.js Media Pipeline
-- **Features**: Codificación restringida en dos pasadas acelerada por hardware
+- **Versión Actual**: `v1.11.0`
+- **Objetivo de Ejecución**: C++/Node.js Media Pipeline
+- **Funciones Clave**: Codificación restringida en dos pasadas acelerada por hardware
 
 ### omni-audio-mcp
-- **Version**: `v1.0.0`
-- **Target**: WebAudio / Native DSP Engine
-- **Features**: Telemetría de espectro de audio FFT de 512 bandas
+- **Versión Actual**: `v1.0.0`
+- **Objetivo de Ejecución**: WebAudio / Native DSP Engine
+- **Funciones Clave**: Telemetría de espectro de audio FFT de 512 bandas
