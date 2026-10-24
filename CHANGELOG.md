@@ -1,59 +1,50 @@
 # 📋 KRC Labs Systems Changelog
 
-All notable engineering updates and version milestones are manually documented in this file.
+| [KR 한국어](./docs/locales/ko.md) | [US English](./README.md) | [JP 日本語](./docs/locales/ja.md) | [CN 简体中文](./docs/locales/zh-CN.md) | [ES Español](./docs/locales/es.md) | [IN हिन्दी](./docs/locales/hi.md) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [FR Français](./docs/locales/fr.md) | [DE Deutsch](./docs/locales/de.md) | [RU Русский](./docs/locales/ru.md) | [BR Português](./docs/locales/pt-BR.md) | [IT Italiano](./docs/locales/it.md) | [SA العربية](./docs/locales/ar.md) |
+
+All notable engineering updates and version milestones are strictly documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
-## [Unreleased]
+## [2026-10-25] — Milestone 2026.Q4 Update
 
-### Planned
-- Systems Showcase live sync with multi-theme architecture
-- High-throughput headless browser IPC optimizations for `omnibrowse`
-- Extended forensic rule engine for `vulnforge-mcp`
-
----
-
-## [2026-10-24] — Milestone 2026.Q4
-
-### vibeside-mcp (v0.23.0)
+### vibeside-mcp (v0.30.0)
+- **Added**: Client-side FPS telemetry observer & GPU compositing layer inspector.
 - **Added**: Integrated React Fiber & Vue AST click-to-component resolver.
-- **Added**: Background process auto-cleanup (Zero-Zombie Lifecycle).
 - **Changed**: Enhanced CDP session persistence across browser reloads.
 
-### omnibrowse (v0.14.0)
-- **Added**: Multi-architecture headless CLI daemon support.
-- **Security**: Reinforced DPAPI encrypted credential vault.
+### binvibe (v0.29.0)
+- **Added**: Automated binary entropy waterfall & micro-texture visualizer.
+- **Added**: Fast structural cross-referencing with Ghidra/Hex-Rays bridges.
 
-### remote-auto-ai-worker (v1.2.0)
-- **Added**: Edge task scheduler with sub-second dispatch latency.
-- **Improved**: Node failover recovery protocol.
+### netvibe (v0.5.0)
+- **Added**: Autonomous BGP-4 and OSPFv2/OSPFv3 control-plane protocol forensics.
+- **Added**: 65 FastMCP tools for zero-driver network analysis.
 
-### vulnforge-mcp (v0.8.0)
-- **Added**: Static and dynamic vulnerability audit framework with automated patch rule injection.
+### vulnforge-mcp (v1.25.0)
+- **Added**: Automated micro-VM isolation & ephemeral sandbox attestation gate.
+- **Changed**: 25-tier comprehensive demo and audit rules update.
 
-### omni-control-mcp (v1.0.4)
-- **Added**: Centralized cluster task status aggregation.
+### webarcheology-mcp (v1.14.0)
+- **Added**: Client-side security header and CSP bypass simulator.
+- **Changed**: 100% self-hosted asset integrity enforcement.
 
-### netvibe (v0.9.1)
-- **Added**: Zero-driver process packet capture pipeline.
+### omnibrowse (v0.17.0)
+- **Added**: Intelligent HTTP/3 & QUIC transport engine.
+- **Changed**: Headless dual-core memory mapping optimization.
 
-### binvibe (v0.7.0)
-- **Added**: Rust native binary decompiler bridge with multi-format support.
+### omni-control-mcp (v1.13.0)
+- **Added**: Zero-Trust PKI CA & mTLS Mesh with 28 core MCP tools.
 
-### webarcheology-mcp (v0.6.0)
-- **Added**: High-fidelity offline snapshot synthesizer.
+### remote-auto-ai-worker (v1.15.0)
+- **Added**: Content Security Policy & Dynamic SRI Synthesizer.
 
-### vidcompact-mcp (v1.1.0)
-- **Added**: Two-pass constrained encoding mode with precise bitrate allocation.
+### vidcompact-mcp (v1.11.0)
+- **Added**: Drawtext filter availability probe & target-size hardware encoding.
 
-### omni-audio-mcp (v0.5.2)
-- **Added**: Multi-channel real-time DSP chiptune engine.
-
-### Systems Showcase (v2.4.0)
-- **Added**: 6-theme family architecture (Dark, Forest, Sage, Paper, Custom, System).
-- **Added**: Movable floating action button with PC Right-Click / Mobile Long-Press pin lock.
-- **Added**: 10-language parity (ko, en, ja, zh, de, fr, es, ru, hi, pt).
-- **Added**: Interactive draggable/resizable Custom Theme GUI window.
-- **Changed**: Streamlined catalog layout focusing directly on 10 core systems.
+### omni-audio-mcp (v1.0.0)
+- **Added**: 128/256/512-band FFT audio spectrum telemetry.
