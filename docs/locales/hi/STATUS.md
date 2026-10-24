@@ -1,11 +1,11 @@
 # 📊 KRC Labs सिस्टम संगतता और तकनीकी विनिर्देश रजिस्ट्री
 
-| [KR 한국어](../ko/STATUS.md) | [US English](../../STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](../zh-CN/STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](./STATUS.md) |
+| [KR 한국어](../ko/STATUS.md) | [US English](../en/STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](../zh-CN/STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](./STATUS.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/STATUS.md) | [DE Deutsch](../de/STATUS.md) | [RU Русский](../ru/STATUS.md) | [BR Português](../pt-BR/STATUS.md) | [IT Italiano](../it/STATUS.md) | [SA العربية](../ar/STATUS.md) |
 
 > **KRC Labs के 10 वितरित सिस्टमों के लिए विस्तृत वास्तुकला विनिर्देश और रनटाइम संगतता रजिस्ट्री।**  
-> 🔗 **त्वरित नेविगेशन**: [README.md](./README.md) | 📋 [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **त्वरित नेविगेशन**: 🏠 **[Repo Root](../../../README.md)** | 📄 **[README.md](./README.md)** | 📋 **[CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 

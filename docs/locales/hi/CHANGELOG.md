@@ -1,11 +1,11 @@
 # 📋 KRC Labs सिस्टम रिलीज़ परिवर्तन इतिहास
 
-| [KR 한국어](../ko/CHANGELOG.md) | [US English](../../CHANGELOG.md) | [JP 日本語](../ja/CHANGELOG.md) | [CN 简体中文](../zh-CN/CHANGELOG.md) | [ES Español](../es/CHANGELOG.md) | [IN हिन्दी](./CHANGELOG.md) |
+| [KR 한국어](../ko/CHANGELOG.md) | [US English](../en/CHANGELOG.md) | [JP 日本語](../ja/CHANGELOG.md) | [CN 简体中文](../zh-CN/CHANGELOG.md) | [ES Español](../es/CHANGELOG.md) | [IN हिन्दी](./CHANGELOG.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/CHANGELOG.md) | [DE Deutsch](../de/CHANGELOG.md) | [RU Русский](../ru/CHANGELOG.md) | [BR Português](../pt-BR/CHANGELOG.md) | [IT Italiano](../it/CHANGELOG.md) | [SA العربية](../ar/CHANGELOG.md) |
 
 > **KRC Labs सिस्टम के लिए सभी उल्लेखनीय इंजीनियरिंग अपडेट और संस्करण रिलीज का ऐतिहासिक रिकॉर्ड।**  
-> 🔗 **त्वरित नेविगेशन**: [README.md](./README.md) | 📊 [STATUS.md](./STATUS.md)
+> 🔗 **त्वरित नेविगेशन**: 🏠 **[Repo Root](../../../README.md)** | 📄 **[README.md](./README.md)** | 📊 **[STATUS.md](./STATUS.md)**
 
 ---
 

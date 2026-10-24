@@ -1,12 +1,11 @@
 # 🌐 KRC Labs — 系统公开状态与发布注册表
 
-| [KR 한국어](../ko/README.md) | [US English](../../README.md) | [JP 日本語](../ja/README.md) | [CN 简体中文](./README.md) | [ES Español](../es/README.md) | [IN हिन्दी](../hi/README.md) |
+| [KR 한국어](../ko/README.md) | [US English](../en/README.md) | [JP 日本語](../ja/README.md) | [CN 简体中文](./README.md) | [ES Español](../es/README.md) | [IN हिन्दी](../hi/README.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/README.md) | [DE Deutsch](../de/README.md) | [RU Русский](../ru/README.md) | [BR Português](../pt-BR/README.md) | [IT Italiano](../it/README.md) | [SA العربية](../ar/README.md) |
 
 > **用于透明跟踪 KRC Labs 核心 10 大分布式系统的公开构建里程碑、运行版本和架构更新的官方公开注册表。内部专有源代码 100% 严格隔离保密。**  
-> 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/)  
-> 📊 **Status Portal**: [STATUS.md](./STATUS.md) | 📋 **Changelog**: [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/) | 🏠 **[Repo Root](../../../README.md)** | 📊 **[STATUS.md](./STATUS.md)** | 📋 **[CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 

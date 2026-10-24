@@ -1,12 +1,11 @@
 # 🌐 KRC Labs — السجل العام لحالة الأنظمة والإصدارات
 
-| [KR 한국어](../ko/README.md) | [US English](../../README.md) | [JP 日本語](../ja/README.md) | [CN 简体中文](../zh-CN/README.md) | [ES Español](../es/README.md) | [IN हिन्दी](../hi/README.md) |
+| [KR 한국어](../ko/README.md) | [US English](../en/README.md) | [JP 日本語](../ja/README.md) | [CN 简体中文](../zh-CN/README.md) | [ES Español](../es/README.md) | [IN हिन्दी](../hi/README.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/README.md) | [DE Deutsch](../de/README.md) | [RU Русский](../ru/README.md) | [BR Português](../pt-BR/README.md) | [IT Italiano](../it/README.md) | [SA العربية](./README.md) |
 
 > **السجل العام الرسمي لتتبع معالم البناء وإصدارات وقت التشغيل عبر 10 أنظمة موزعة لـ KRC Labs مع الحفاظ على سرية الكود المصدري بنسبة 100٪.**  
-> 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/)  
-> 📊 **Status Portal**: [STATUS.md](./STATUS.md) | 📋 **Changelog**: [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/) | 🏠 **[Repo Root](../../../README.md)** | 📊 **[STATUS.md](./STATUS.md)** | 📋 **[CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 

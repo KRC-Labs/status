@@ -1,11 +1,11 @@
 # 📊 KRC Labs 系统详细兼容性与技术规范注册表
 
-| [KR 한국어](../ko/STATUS.md) | [US English](../../STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](./STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](../hi/STATUS.md) |
+| [KR 한국어](../ko/STATUS.md) | [US English](../en/STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](./STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](../hi/STATUS.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/STATUS.md) | [DE Deutsch](../de/STATUS.md) | [RU Русский](../ru/STATUS.md) | [BR Português](../pt-BR/STATUS.md) | [IT Italiano](../it/STATUS.md) | [SA العربية](../ar/STATUS.md) |
 
 > **KRC Labs 10 大分布式系统的架构规范、运行兼容性和核心功能详细规范。**  
-> 🔗 **快速导航**: [README.md](./README.md) | 📋 [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **快速导航**: 🏠 **[Repo Root](../../../README.md)** | 📄 **[README.md](./README.md)** | 📋 **[CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 

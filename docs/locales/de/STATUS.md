@@ -1,11 +1,11 @@
 # 📊 KRC Labs Systemkompatibilitäts- und Technische Spezifikationsregister
 
-| [KR 한국어](../ko/STATUS.md) | [US English](../../STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](../zh-CN/STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](../hi/STATUS.md) |
+| [KR 한국어](../ko/STATUS.md) | [US English](../en/STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](../zh-CN/STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](../hi/STATUS.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/STATUS.md) | [DE Deutsch](./STATUS.md) | [RU Русский](../ru/STATUS.md) | [BR Português](../pt-BR/STATUS.md) | [IT Italiano](../it/STATUS.md) | [SA العربية](../ar/STATUS.md) |
 
 > **Detaillierte Architekturspezifikationen, Laufzeitkompatibilität und Kernfunktionsregister der 10 verteilten Systeme.**  
-> 🔗 **Schnellnavigation**: [README.md](./README.md) | 📋 [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **Schnellnavigation**: 🏠 **[Repo Root](../../../README.md)** | 📄 **[README.md](./README.md)** | 📋 **[CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 

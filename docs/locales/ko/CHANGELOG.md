@@ -1,11 +1,11 @@
 # 📋 KRC Labs 시스템 릴리스 변경 이력
 
-| [KR 한국어](./CHANGELOG.md) | [US English](../../CHANGELOG.md) | [JP 日本語](../ja/CHANGELOG.md) | [CN 简体中文](../zh-CN/CHANGELOG.md) | [ES Español](../es/CHANGELOG.md) | [IN हिन्दी](../hi/CHANGELOG.md) |
+| [KR 한국어](./CHANGELOG.md) | [US English](../en/CHANGELOG.md) | [JP 日本語](../ja/CHANGELOG.md) | [CN 简体中文](../zh-CN/CHANGELOG.md) | [ES Español](../es/CHANGELOG.md) | [IN हिन्दी](../hi/CHANGELOG.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/CHANGELOG.md) | [DE Deutsch](../de/CHANGELOG.md) | [RU Русский](../ru/CHANGELOG.md) | [BR Português](../pt-BR/CHANGELOG.md) | [IT Italiano](../it/CHANGELOG.md) | [SA العربية](../ar/CHANGELOG.md) |
 
 > **KRC Labs 10대 핵심 분산 시스템의 버전별 기능 추가, 개선 사항 및 마일스톤 릴리스 이력입니다.**  
-> 🔗 **빠른 이동**: [README.md](./README.md) | 📊 [STATUS.md](./STATUS.md)
+> 🔗 **빠른 이동**: 🏠 **[Repo Root](../../../README.md)** | 📄 **[README.md](./README.md)** | 📊 **[STATUS.md](./STATUS.md)**
 
 ---
 

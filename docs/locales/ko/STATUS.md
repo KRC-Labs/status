@@ -1,11 +1,11 @@
 # 📊 KRC Labs 시스템 상세 호환성 및 기술 명세 레지스트리
 
-| [KR 한국어](./STATUS.md) | [US English](../../STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](../zh-CN/STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](../hi/STATUS.md) |
+| [KR 한국어](./STATUS.md) | [US English](../en/STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](../zh-CN/STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](../hi/STATUS.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/STATUS.md) | [DE Deutsch](../de/STATUS.md) | [RU Русский](../ru/STATUS.md) | [BR Português](../pt-BR/STATUS.md) | [IT Italiano](../it/STATUS.md) | [SA العربية](../ar/STATUS.md) |
 
 > **KRC Labs 10대 핵심 분산 시스템의 아키텍처 스펙, 런타임 호환성 및 세부 기술 사양 레지스트리입니다.**  
-> 🔗 **빠른 이동**: [README.md](./README.md) | 📋 [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **빠른 이동**: 🏠 **[Repo Root](../../../README.md)** | 📄 **[README.md](./README.md)** | 📋 **[CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 

@@ -5,7 +5,7 @@
 | [FR Français](./docs/locales/fr/CHANGELOG.md) | [DE Deutsch](./docs/locales/de/CHANGELOG.md) | [RU Русский](./docs/locales/ru/CHANGELOG.md) | [BR Português](./docs/locales/pt-BR/CHANGELOG.md) | [IT Italiano](./docs/locales/it/CHANGELOG.md) | [SA العربية](./docs/locales/ar/CHANGELOG.md) |
 
 > **Historical record of all notable engineering updates, version bumps, and milestone releases for KRC Labs systems.**  
-> 🔗 **Quick Navigation**: [README.md](./README.md) | 📊 [STATUS.md](./STATUS.md)
+> 🔗 **Quick Navigation**: 📄 [README.md](./README.md) | 📊 [STATUS.md](./STATUS.md)
 
 ---
 

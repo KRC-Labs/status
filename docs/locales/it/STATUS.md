@@ -1,11 +1,11 @@
 # 📊 KRC Labs Registro di Compatibilità e Specifiche Tecniche
 
-| [KR 한국어](../ko/STATUS.md) | [US English](../../STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](../zh-CN/STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](../hi/STATUS.md) |
+| [KR 한국어](../ko/STATUS.md) | [US English](../en/STATUS.md) | [JP 日本語](../ja/STATUS.md) | [CN 简体中文](../zh-CN/STATUS.md) | [ES Español](../es/STATUS.md) | [IN हिन्दी](../hi/STATUS.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/STATUS.md) | [DE Deutsch](../de/STATUS.md) | [RU Русский](../ru/STATUS.md) | [BR Português](../pt-BR/STATUS.md) | [IT Italiano](./STATUS.md) | [SA العربية](../ar/STATUS.md) |
 
 > **Specifiche architetturali dettagliate, compatibilità runtime e registro delle funzionalità dei sistemi.**  
-> 🔗 **Navigazione Rapida**: [README.md](./README.md) | 📋 [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **Navigazione Rapida**: 🏠 **[Repo Root](../../../README.md)** | 📄 **[README.md](./README.md)** | 📋 **[CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 

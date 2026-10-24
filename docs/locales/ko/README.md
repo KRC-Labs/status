@@ -1,12 +1,11 @@
 # 🌐 KRC Labs — 시스템 공개 운영 현황 및 릴리스 매트릭스
 
-| [KR 한국어](./README.md) | [US English](../../README.md) | [JP 日本語](../ja/README.md) | [CN 简体中文](../zh-CN/README.md) | [ES Español](../es/README.md) | [IN हिन्दी](../hi/README.md) |
+| [KR 한국어](./README.md) | [US English](../en/README.md) | [JP 日本語](../ja/README.md) | [CN 简体中文](../zh-CN/README.md) | [ES Español](../es/README.md) | [IN हिन्दी](../hi/README.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](../fr/README.md) | [DE Deutsch](../de/README.md) | [RU Русский](../ru/README.md) | [BR Português](../pt-BR/README.md) | [IT Italiano](../it/README.md) | [SA العربية](../ar/README.md) |
 
 > **KRC Labs 10대 핵심 분산 시스템의 공식 공개 업데이트, 런타임 버전 레지스트리 및 릴리스 변경 이력입니다. 사내 독점 소스코드는 100% 비공개로 안전하게 보호됩니다.**  
-> 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/)  
-> 📊 **Status Portal**: [STATUS.md](./STATUS.md) | 📋 **Changelog**: [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/) | 🏠 **[Repo Root](../../../README.md)** | 📊 **[STATUS.md](./STATUS.md)** | 📋 **[CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 

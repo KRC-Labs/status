@@ -5,8 +5,7 @@
 | [FR Français](./docs/locales/fr/README.md) | [DE Deutsch](./docs/locales/de/README.md) | [RU Русский](./docs/locales/ru/README.md) | [BR Português](./docs/locales/pt-BR/README.md) | [IT Italiano](./docs/locales/it/README.md) | [SA العربية](./docs/locales/ar/README.md) |
 
 > **Official Public Updates, Version Registry & Release Changelogs for KRC Labs Core Systems. All proprietary source trees remain 100% strictly private.**  
-> 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/)  
-> 📊 **Status Portal**: [STATUS.md](./STATUS.md) | 📋 **Changelog**: [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/) | 📊 **Status Portal**: [STATUS.md](./STATUS.md) | 📋 **Changelog**: [CHANGELOG.md](./CHANGELOG.md)
 
 ---
 

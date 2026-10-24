@@ -1,11 +1,11 @@
 # 📋 KRC Labs Journal des Modifications et des Versions
 
-| [KR 한국어](../ko/CHANGELOG.md) | [US English](../../CHANGELOG.md) | [JP 日本語](../ja/CHANGELOG.md) | [CN 简体中文](../zh-CN/CHANGELOG.md) | [ES Español](../es/CHANGELOG.md) | [IN हिन्दी](../hi/CHANGELOG.md) |
+| [KR 한국어](../ko/CHANGELOG.md) | [US English](../en/CHANGELOG.md) | [JP 日本語](../ja/CHANGELOG.md) | [CN 简体中文](../zh-CN/CHANGELOG.md) | [ES Español](../es/CHANGELOG.md) | [IN हिन्दी](../hi/CHANGELOG.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [FR Français](./CHANGELOG.md) | [DE Deutsch](../de/CHANGELOG.md) | [RU Русский](../ru/CHANGELOG.md) | [BR Português](../pt-BR/CHANGELOG.md) | [IT Italiano](../it/CHANGELOG.md) | [SA العربية](../ar/CHANGELOG.md) |
 
 > **Historique de toutes les mises à jour d'ingénierie notables et des versions jalons des systèmes KRC Labs.**  
-> 🔗 **Navigation Rapide**: [README.md](./README.md) | 📊 [STATUS.md](./STATUS.md)
+> 🔗 **Navigation Rapide**: 🏠 **[Repo Root](../../../README.md)** | 📄 **[README.md](./README.md)** | 📊 **[STATUS.md](./STATUS.md)**
 
 ---
 

@@ -5,7 +5,7 @@
 | [FR Français](./docs/locales/fr/STATUS.md) | [DE Deutsch](./docs/locales/de/STATUS.md) | [RU Русский](./docs/locales/ru/STATUS.md) | [BR Português](./docs/locales/pt-BR/STATUS.md) | [IT Italiano](./docs/locales/it/STATUS.md) | [SA العربية](./docs/locales/ar/STATUS.md) |
 
 > **Detailed architectural specifications, runtime compatibility, and core feature registry for KRC Labs 10 distributed systems.**  
-> 🔗 **Quick Navigation**: [README.md](./README.md) | 📋 [CHANGELOG.md](./CHANGELOG.md)
+> 🔗 **Quick Navigation**: 📄 [README.md](./README.md) | 📋 [CHANGELOG.md](./CHANGELOG.md)
 
 ---
 

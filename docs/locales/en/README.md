@@ -1,11 +1,11 @@
-# 🌐 KRC Labs — Registro Público de Estado de Sistemas y Lanzamientos
+# 🌐 KRC Labs — Public Systems Status Registry & Release Matrix
 
-| [KR 한국어](./ko.md) | [US English](../../README.md) | [JP 日本語](./ja.md) | [CN 简体中文](./zh-CN.md) | [ES Español](./es.md) | [IN हिन्दी](./hi.md) |
+| [KR 한국어](../ko/README.md) | [US English](./README.md) | [JP 日本語](../ja/README.md) | [CN 简体中文](../zh-CN/README.md) | [ES Español](../es/README.md) | [IN हिन्दी](../hi/README.md) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [FR Français](./fr.md) | [DE Deutsch](./de.md) | [RU Русский](./ru.md) | [BR Português](./pt-BR.md) | [IT Italiano](./it.md) | [SA العربية](./ar.md) |
+| [FR Français](../fr/README.md) | [DE Deutsch](../de/README.md) | [RU Русский](../ru/README.md) | [BR Português](../pt-BR/README.md) | [IT Italiano](../it/README.md) | [SA العربية](../ar/README.md) |
 
-> **Registro público oficial para rastrear hitos de compilación, versiones en tiempo de ejecución y actualizaciones de arquitectura en los 10 sistemas distribuidos de KRC Labs, manteniendo el código fuente 100% privado.**  
-> 🔗 **Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/) | 📊 [STATUS](../../STATUS.md) | 📋 [CHANGELOG](../../CHANGELOG.md)
+> **Official Public Updates, Version Registry & Release Changelogs for KRC Labs Core Systems. All proprietary source trees remain 100% strictly private.**  
+> 🔗 **Web Showcase**: [https://krc-labs.github.io/](https://krc-labs.github.io/) | 🏠 **[Repo Root](../../../README.md)** | 📊 **[STATUS.md](./STATUS.md)** | 📋 **[CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 
@@ -24,7 +24,8 @@
 | **remote-auto-ai-worker** | Edge Computing | `v1.15.0` | 🟢 Stable | Content Security Policy & Dynamic SRI Synthesizer |
 | **vidcompact-mcp** | Media Encoding | `v1.11.0` | 🟢 Stable | Constrained two-pass encoding & target-size hardware acceleration |
 
+
 ---
 
-## 🔒 Security & IP Protection
-All source code trees remain strictly confidential in private repositories.
+## 🔒 Source Code Isolation Guarantee
+All proprietary source trees (`src/`, `crates/`, `tests/`) remain strictly confidential in private repositories.
