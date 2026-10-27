@@ -29,7 +29,7 @@
 ### omni-audio-mcp (v1.0.0)
 - **里程碑主要功能**: 512 频段 FFT 高精度音频频谱遥测
 
-### omni-control-mcp (v1.13.0)
+### omni-control-mcp (v1.15.0)
 - **里程碑主要功能**: 零信任 PKI CA 与具备 28 个核心 MCP 工具的 mTLS 网格
 
 ### omnibrowse (v0.22.0)

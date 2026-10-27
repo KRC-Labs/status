@@ -19,7 +19,7 @@
 | **vulnforge-mcp** | 安全审计 | `v1.29.0` | 🟢 稳定运行 | 自动化微虚拟机隔离与临时沙箱证明网关 |
 | **webarcheology-mcp** | Web 取证 | `v1.14.0` | 🟢 稳定运行 | 客户端安全标头与 CSP 绕过模拟器 |
 | **omni-audio-mcp** | 音频引擎 | `v1.0.0` | 🟢 稳定运行 | 512 频段 FFT 高精度音频频谱遥测 |
-| **omni-control-mcp** | 控制平面 | `v1.13.0` | 🟢 稳定运行 | 零信任 PKI CA 与具备 28 个核心 MCP 工具的 mTLS 网格 |
+| **omni-control-mcp** | 控制平面 | `v1.15.0` | 🟢 稳定运行 | 零信任 PKI CA 与具备 28 个核心 MCP 工具的 mTLS 网格 |
 | **omnibrowse** | 浏览器引擎 | `v0.22.0` | 🟢 稳定运行 | 智能 HTTP/3 与 QUIC 高速传输引擎 |
 | **remote-auto-ai-worker** | 边缘计算 | `v1.20.0` | 🟢 稳定运行 | 内容安全策略 (CSP) 与动态 SRI 综合合成器 |
 | **vidcompact-mcp** | 媒体编码 | `v1.11.0` | 🟢 稳定运行 | 硬件加速双遍约束编码与目标容量精准压缩 |

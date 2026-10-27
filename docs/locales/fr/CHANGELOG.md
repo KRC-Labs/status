@@ -29,7 +29,7 @@
 ### omni-audio-mcp (v1.0.0)
 - **Fonctionnalités Principales**: Télémétrie du spectre audio FFT à 512 bandes
 
-### omni-control-mcp (v1.13.0)
+### omni-control-mcp (v1.15.0)
 - **Fonctionnalités Principales**: PKI CA Zero-Trust & maillage mTLS avec 28 outils MCP
 
 ### omnibrowse (v0.22.0)

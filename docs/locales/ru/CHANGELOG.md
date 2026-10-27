@@ -29,7 +29,7 @@
 ### omni-audio-mcp (v1.0.0)
 - **Основные функции этапа**: Телеметрия спектра аудио с 512 полосами FFT
 
-### omni-control-mcp (v1.13.0)
+### omni-control-mcp (v1.15.0)
 - **Основные функции этапа**: Zero-Trust PKI CA и сетка mTLS с 28 инструментами MCP
 
 ### omnibrowse (v0.22.0)

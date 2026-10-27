@@ -29,7 +29,7 @@
 ### omni-audio-mcp (v1.0.0)
 - **Meilenstein-Hauptfunktionen**: 512-Band FFT-Audiospektrum-Telemetrie
 
-### omni-control-mcp (v1.13.0)
+### omni-control-mcp (v1.15.0)
 - **Meilenstein-Hauptfunktionen**: Zero-Trust PKI CA & mTLS-Mesh mit 28 MCP-Tools
 
 ### omnibrowse (v0.22.0)

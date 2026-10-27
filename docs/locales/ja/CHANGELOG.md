@@ -29,7 +29,7 @@
 ### omni-audio-mcp (v1.0.0)
 - **マイルストーン主要機能**: 512バンドFFT高精度オーディオスペクトラムテレメトリ
 
-### omni-control-mcp (v1.13.0)
+### omni-control-mcp (v1.15.0)
 - **マイルストーン主要機能**: ゼロトラストPKI CAおよび28コアMCPツール搭載mTLSメッシュ
 
 ### omnibrowse (v0.22.0)

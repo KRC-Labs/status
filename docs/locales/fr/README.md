@@ -19,7 +19,7 @@
 | **vulnforge-mcp** | Audit de Sécurité | `v1.29.0` | 🟢 Stable | Isolation micro-VM & passerelle d'attestation sandbox |
 | **webarcheology-mcp** | Police Web | `v1.14.0` | 🟢 Stable | En-têtes de sécurité client & simulateur de contournement CSP |
 | **omni-audio-mcp** | Moteur Audio | `v1.0.0` | 🟢 Stable | Télémétrie du spectre audio FFT à 512 bandes |
-| **omni-control-mcp** | Plan de Contrôle | `v1.13.0` | 🟢 Stable | PKI CA Zero-Trust & maillage mTLS avec 28 outils MCP |
+| **omni-control-mcp** | Plan de Contrôle | `v1.15.0` | 🟢 Stable | PKI CA Zero-Trust & maillage mTLS avec 28 outils MCP |
 | **omnibrowse** | Moteur de Navigateur | `v0.22.0` | 🟢 Stable | Moteur de transport intelligent HTTP/3 & QUIC |
 | **remote-auto-ai-worker** | Edge Computing | `v1.20.0` | 🟢 Stable | Politique de sécurité du contenu (CSP) & synthétiseur SRI |
 | **vidcompact-mcp** | Encodage Multimédia | `v1.11.0` | 🟢 Stable | Encodage accéléré matériel en 2 passes & compression ciblée |

@@ -47,7 +47,7 @@
 ## 3. 네트워크, 제어 평면 및 미디어 엔진군
 
 ### omni-control-mcp
-- **현재 버전**: `v1.13.0`
+- **현재 버전**: `v1.15.0`
 - **런타임 타깃**: TypeScript Orchestrator
 - **핵심 기능**: 제로 트러스트 PKI CA & 28개 코어 MCP 도구 mTLS 메시
 

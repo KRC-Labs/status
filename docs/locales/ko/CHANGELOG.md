@@ -29,7 +29,7 @@
 ### omni-audio-mcp (v1.0.0)
 - **주요 구현 기능**: 512 밴드 FFT 오디오 스펙트럼 텔레메트리
 
-### omni-control-mcp (v1.13.0)
+### omni-control-mcp (v1.15.0)
 - **주요 구현 기능**: 제로 트러스트 PKI CA & 28개 코어 MCP 도구 mTLS 메시
 
 ### omnibrowse (v0.22.0)

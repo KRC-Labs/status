@@ -29,7 +29,7 @@
 ### omni-audio-mcp (v1.0.0)
 - **Recursos do Marco**: Telemetria de espectro de áudio FFT de 512 bandas
 
-### omni-control-mcp (v1.13.0)
+### omni-control-mcp (v1.15.0)
 - **Recursos do Marco**: Zero-Trust PKI CA & malha mTLS com 28 ferramentas MCP
 
 ### omnibrowse (v0.22.0)

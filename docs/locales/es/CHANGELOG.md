@@ -29,7 +29,7 @@
 ### omni-audio-mcp (v1.0.0)
 - **Características del Hito**: Telemetría de espectro de audio FFT de 512 bandas
 
-### omni-control-mcp (v1.13.0)
+### omni-control-mcp (v1.15.0)
 - **Características del Hito**: PKI CA de confianza cero y malla mTLS con 28 herramientas MCP
 
 ### omnibrowse (v0.22.0)

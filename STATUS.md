@@ -47,7 +47,7 @@
 ## 3. Network, Control & Media Engines
 
 ### omni-control-mcp
-- **Current Version**: `v1.13.0`
+- **Current Version**: `v1.15.0`
 - **Runtime Target**: TypeScript Orchestrator
 - **Key Features**: Zero-Trust PKI CA & mTLS Mesh with 28 core MCP tools
 

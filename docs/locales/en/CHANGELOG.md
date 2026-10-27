@@ -29,7 +29,7 @@
 ### omni-audio-mcp (v1.0.0)
 - **Milestone Features**: 512-band FFT audio spectrum telemetry
 
-### omni-control-mcp (v1.13.0)
+### omni-control-mcp (v1.15.0)
 - **Milestone Features**: Zero-Trust PKI CA & mTLS Mesh with 28 core MCP tools
 
 ### omnibrowse (v0.22.0)

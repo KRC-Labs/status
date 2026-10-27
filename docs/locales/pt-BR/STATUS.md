@@ -47,7 +47,7 @@
 ## 3. Motores de Rede, Plano de Controle e Mídia
 
 ### omni-control-mcp
-- **Versão Atual**: `v1.13.0`
+- **Versão Atual**: `v1.15.0`
 - **Alvo de Execução**: TypeScript Orchestrator
 - **Recursos Principais**: Zero-Trust PKI CA & malha mTLS com 28 ferramentas MCP
 

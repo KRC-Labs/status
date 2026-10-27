@@ -47,7 +47,7 @@
 ## 3. 网络、控制平面与媒体引擎群
 
 ### omni-control-mcp
-- **当前版本**: `v1.13.0`
+- **当前版本**: `v1.15.0`
 - **运行时目标**: TypeScript Orchestrator
 - **核心特性**: 零信任 PKI CA 与具备 28 个核心 MCP 工具的 mTLS 网格
 
