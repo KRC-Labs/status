@@ -22,7 +22,7 @@
 | **omni-control-mcp** | Plano de Controle | `v1.15.0` | 🟢 Estável | Zero-Trust PKI CA & malha mTLS com 28 ferramentas MCP |
 | **omnibrowse** | Motor de Navegador | `v0.22.0` | 🟢 Estável | Motor de transporte inteligente HTTP/3 & QUIC |
 | **remote-auto-ai-worker** | Computação de Borda | `v1.20.0` | 🟢 Estável | Política de segurança de conteúdo (CSP) & sintetizador SRI |
-| **vidcompact-mcp** | Codificação de Mídia | `v1.11.0` | 🟢 Estável | Codificação acelerada por hardware em duas etapas |
+| **vidcompact-mcp** | Codificação de Mídia | `v1.13.0` | 🟢 Estável | Codificação acelerada por hardware em duas etapas |
 
 
 ---

@@ -62,7 +62,7 @@
 - **Key Features**: Client-side security header & CSP bypass simulator
 
 ### vidcompact-mcp
-- **Current Version**: `v1.11.0`
+- **Current Version**: `v1.13.0`
 - **Runtime Target**: C++/Node.js Media Pipeline
 - **Key Features**: Constrained two-pass encoding & target-size hardware acceleration
 

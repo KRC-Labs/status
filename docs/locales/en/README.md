@@ -22,7 +22,7 @@
 | **omni-control-mcp** | Orchestration | `v1.15.0` | 🟢 Stable | Zero-Trust PKI CA & mTLS Mesh with 28 core MCP tools |
 | **omnibrowse** | Browser Engine | `v0.22.0` | 🟢 Stable | Intelligent HTTP/3 & QUIC transport engine |
 | **remote-auto-ai-worker** | Edge Computing | `v1.20.0` | 🟢 Stable | Content Security Policy & Dynamic SRI Synthesizer |
-| **vidcompact-mcp** | Media Encoding | `v1.11.0` | 🟢 Stable | Constrained two-pass encoding & target-size hardware acceleration |
+| **vidcompact-mcp** | Media Encoding | `v1.13.0` | 🟢 Stable | Constrained two-pass encoding & target-size hardware acceleration |
 
 
 ---

@@ -38,5 +38,5 @@
 ### remote-auto-ai-worker (v1.20.0)
 - **Características del Hito**: Política de seguridad de contenido (CSP) y sintetizador SRI dinámico
 
-### vidcompact-mcp (v1.11.0)
+### vidcompact-mcp (v1.13.0)
 - **Características del Hito**: Codificación restringida en dos pasadas acelerada por hardware

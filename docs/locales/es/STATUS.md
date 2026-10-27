@@ -62,7 +62,7 @@
 - **Funciones Clave**: Cabecera de seguridad del cliente y simulador de evasión de CSP
 
 ### vidcompact-mcp
-- **Versión Actual**: `v1.11.0`
+- **Versión Actual**: `v1.13.0`
 - **Objetivo de Ejecución**: C++/Node.js Media Pipeline
 - **Funciones Clave**: Codificación restringida en dos pasadas acelerada por hardware
 

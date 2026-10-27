@@ -62,7 +62,7 @@
 - **Recursos Principais**: Cabeçalhos de segurança do cliente & simulador de desvio de CSP
 
 ### vidcompact-mcp
-- **Versão Atual**: `v1.11.0`
+- **Versão Atual**: `v1.13.0`
 - **Alvo de Execução**: C++/Node.js Media Pipeline
 - **Recursos Principais**: Codificação acelerada por hardware em duas etapas
 

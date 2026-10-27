@@ -38,5 +38,5 @@
 ### remote-auto-ai-worker (v1.20.0)
 - **Milestone Features**: Content Security Policy & Dynamic SRI Synthesizer
 
-### vidcompact-mcp (v1.11.0)
+### vidcompact-mcp (v1.13.0)
 - **Milestone Features**: Constrained two-pass encoding & target-size hardware acceleration

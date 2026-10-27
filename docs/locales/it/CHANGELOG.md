@@ -38,5 +38,5 @@
 ### remote-auto-ai-worker (v1.20.0)
 - **Funzionalità Principali**: Politica di sicurezza dei contenuti (CSP) & sintetizzatore SRI
 
-### vidcompact-mcp (v1.11.0)
+### vidcompact-mcp (v1.13.0)
 - **Funzionalità Principali**: Codifica a due passaggi con accelerazione hardware

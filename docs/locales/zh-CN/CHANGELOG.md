@@ -38,5 +38,5 @@
 ### remote-auto-ai-worker (v1.20.0)
 - **里程碑主要功能**: 内容安全策略 (CSP) 与动态 SRI 综合合成器
 
-### vidcompact-mcp (v1.11.0)
+### vidcompact-mcp (v1.13.0)
 - **里程碑主要功能**: 硬件加速双遍约束编码与目标容量精准压缩

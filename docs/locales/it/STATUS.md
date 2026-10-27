@@ -62,7 +62,7 @@
 - **Caratteristiche**: Header di sicurezza client & simulatore di bypass CSP
 
 ### vidcompact-mcp
-- **Versione Attuale**: `v1.11.0`
+- **Versione Attuale**: `v1.13.0`
 - **Target Runtime**: C++/Node.js Media Pipeline
 - **Caratteristiche**: Codifica a due passaggi con accelerazione hardware
 

@@ -62,7 +62,7 @@
 - **Fonctionnalités**: En-têtes de sécurité client & simulateur de contournement CSP
 
 ### vidcompact-mcp
-- **Version Actuelle**: `v1.11.0`
+- **Version Actuelle**: `v1.13.0`
 - **Cible d'Exécution**: C++/Node.js Media Pipeline
 - **Fonctionnalités**: Encodage accéléré matériel en 2 passes & compression ciblée
 

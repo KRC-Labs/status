@@ -38,5 +38,5 @@
 ### remote-auto-ai-worker (v1.20.0)
 - **주요 구현 기능**: 콘텐츠 보안 정책(CSP) & 동적 SRI 종합 합성기
 
-### vidcompact-mcp (v1.11.0)
+### vidcompact-mcp (v1.13.0)
 - **주요 구현 기능**: 하드웨어 가속 2패스 인코딩 & 목표 용량 압축

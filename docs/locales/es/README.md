@@ -22,7 +22,7 @@
 | **omni-control-mcp** | Plano de Control | `v1.15.0` | 🟢 Estable | PKI CA de confianza cero y malla mTLS con 28 herramientas MCP |
 | **omnibrowse** | Motor de Navegador | `v0.22.0` | 🟢 Estable | Motor de transporte inteligente HTTP/3 y QUIC |
 | **remote-auto-ai-worker** | Computación en el Borde | `v1.20.0` | 🟢 Estable | Política de seguridad de contenido (CSP) y sintetizador SRI dinámico |
-| **vidcompact-mcp** | Codificación Multimedia | `v1.11.0` | 🟢 Estable | Codificación restringida en dos pasadas acelerada por hardware |
+| **vidcompact-mcp** | Codificación Multimedia | `v1.13.0` | 🟢 Estable | Codificación restringida en dos pasadas acelerada por hardware |
 
 
 ---

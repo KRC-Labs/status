@@ -38,5 +38,5 @@
 ### remote-auto-ai-worker (v1.20.0)
 - **Meilenstein-Hauptfunktionen**: Content Security Policy (CSP) & dynamischer SRI-Synthesizer
 
-### vidcompact-mcp (v1.11.0)
+### vidcompact-mcp (v1.13.0)
 - **Meilenstein-Hauptfunktionen**: Hardwarebeschleunigte 2-Pass-Kodierung & Zielgrößen-Kompression

@@ -22,7 +22,7 @@
 | **omni-control-mcp** | Steuerungsebene | `v1.15.0` | 🟢 Stabil | Zero-Trust PKI CA & mTLS-Mesh mit 28 MCP-Tools |
 | **omnibrowse** | Browser-Engine | `v0.22.0` | 🟢 Stabil | Intelligente HTTP/3 & QUIC Transport-Engine |
 | **remote-auto-ai-worker** | Edge Computing | `v1.20.0` | 🟢 Stabil | Content Security Policy (CSP) & dynamischer SRI-Synthesizer |
-| **vidcompact-mcp** | Medienkodierung | `v1.11.0` | 🟢 Stabil | Hardwarebeschleunigte 2-Pass-Kodierung & Zielgrößen-Kompression |
+| **vidcompact-mcp** | Medienkodierung | `v1.13.0` | 🟢 Stabil | Hardwarebeschleunigte 2-Pass-Kodierung & Zielgrößen-Kompression |
 
 
 ---
