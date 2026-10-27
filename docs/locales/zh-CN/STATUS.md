@@ -12,14 +12,14 @@
 ## 1. 运行时与开发者工具群
 
 ### vibeside-mcp
-- **当前版本**: `v0.30.0`
+- **当前版本**: `v0.33.0`
 - **运行时目标**: Node.js >= 20.0.0 / Standalone Native Binary
 - **协议标准**: Model Context Protocol (MCP) v1.0
 - **遥测引擎**: FastMCP Direct IPC / CDP Port 9315
 - **核心特性**: 客户端 FPS 遥测观察器与 GPU 合成图层检查器
 
 ### omnibrowse
-- **当前版本**: `v0.17.0`
+- **当前版本**: `v0.22.0`
 - **运行时目标**: Rust 1.80+ (Dual-Core Engine)
 - **核心特性**: 智能 HTTP/3 与 QUIC 高速传输引擎
 
@@ -28,12 +28,12 @@
 ## 2. 分布式计算与安全系统群
 
 ### remote-auto-ai-worker
-- **当前版本**: `v1.15.0`
+- **当前版本**: `v1.20.0`
 - **运行时目标**: TypeScript Serverless Gateway
 - **核心特性**: 内容安全策略 (CSP) 与动态 SRI 综合合成器
 
 ### vulnforge-mcp
-- **当前版本**: `v1.25.0`
+- **当前版本**: `v1.29.0`
 - **运行时目标**: Static & Dynamic Forensic Engine
 - **核心特性**: 自动化微虚拟机隔离与临时沙箱证明网关
 

@@ -9,9 +9,9 @@
 
 ---
 
-## [2026-10-25] — Milestone 2026.Q4
+## [2026-10-27] — Milestone 2026.Q4
 
-### vibeside-mcp (v0.30.0)
+### vibeside-mcp (v0.33.0)
 - **주요 구현 기능**: 클라이언트 FPS 텔레메트리 관측기 & GPU 컴포지팅 레이어 인스펙터
 
 ### binvibe (v0.29.0)
@@ -20,7 +20,7 @@
 ### netvibe (v0.5.0)
 - **주요 구현 기능**: 자율 BGP-4 및 OSPFv2/OSPFv3 제어 평면 포렌식 엔진
 
-### vulnforge-mcp (v1.25.0)
+### vulnforge-mcp (v1.29.0)
 - **주요 구현 기능**: 자동화된 마이크로 VM 격리 & 임시 샌드박스 증명 게이트
 
 ### webarcheology-mcp (v1.14.0)
@@ -32,10 +32,10 @@
 ### omni-control-mcp (v1.13.0)
 - **주요 구현 기능**: 제로 트러스트 PKI CA & 28개 코어 MCP 도구 mTLS 메시
 
-### omnibrowse (v0.17.0)
+### omnibrowse (v0.22.0)
 - **주요 구현 기능**: 지능형 HTTP/3 & QUIC 고속 트랜스포트 엔진
 
-### remote-auto-ai-worker (v1.15.0)
+### remote-auto-ai-worker (v1.20.0)
 - **주요 구현 기능**: 콘텐츠 보안 정책(CSP) & 동적 SRI 종합 합성기
 
 ### vidcompact-mcp (v1.11.0)

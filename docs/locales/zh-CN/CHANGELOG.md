@@ -9,9 +9,9 @@
 
 ---
 
-## [2026-10-25] — Milestone 2026.Q4
+## [2026-10-27] — Milestone 2026.Q4
 
-### vibeside-mcp (v0.30.0)
+### vibeside-mcp (v0.33.0)
 - **里程碑主要功能**: 客户端 FPS 遥测观察器与 GPU 合成图层检查器
 
 ### binvibe (v0.29.0)
@@ -20,7 +20,7 @@
 ### netvibe (v0.5.0)
 - **里程碑主要功能**: 自主 BGP-4 与 OSPFv2/OSPFv3 控制平面协议取证引擎
 
-### vulnforge-mcp (v1.25.0)
+### vulnforge-mcp (v1.29.0)
 - **里程碑主要功能**: 自动化微虚拟机隔离与临时沙箱证明网关
 
 ### webarcheology-mcp (v1.14.0)
@@ -32,10 +32,10 @@
 ### omni-control-mcp (v1.13.0)
 - **里程碑主要功能**: 零信任 PKI CA 与具备 28 个核心 MCP 工具的 mTLS 网格
 
-### omnibrowse (v0.17.0)
+### omnibrowse (v0.22.0)
 - **里程碑主要功能**: 智能 HTTP/3 与 QUIC 高速传输引擎
 
-### remote-auto-ai-worker (v1.15.0)
+### remote-auto-ai-worker (v1.20.0)
 - **里程碑主要功能**: 内容安全策略 (CSP) 与动态 SRI 综合合成器
 
 ### vidcompact-mcp (v1.11.0)

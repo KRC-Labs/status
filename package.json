@@ -1,0 +1,15 @@
+{
+  "name": "@krc-labs/status",
+  "version": "1.0.0",
+  "description": "KRC Labs Public Systems Status Registry, Architecture Roadmaps & Release Changelogs",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "update-status": "node scripts/update_status.mjs",
+    "verify": "node scripts/update_status.mjs --verify-only"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}

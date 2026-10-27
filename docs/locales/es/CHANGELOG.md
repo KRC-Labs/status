@@ -9,9 +9,9 @@
 
 ---
 
-## [2026-10-25] — Milestone 2026.Q4
+## [2026-10-27] — Milestone 2026.Q4
 
-### vibeside-mcp (v0.30.0)
+### vibeside-mcp (v0.33.0)
 - **Características del Hito**: Observador de telemetría FPS y capa de composición GPU
 
 ### binvibe (v0.29.0)
@@ -20,7 +20,7 @@
 ### netvibe (v0.5.0)
 - **Características del Hito**: Forense de protocolos de plano de control autónomo BGP-4 y OSPF
 
-### vulnforge-mcp (v1.25.0)
+### vulnforge-mcp (v1.29.0)
 - **Características del Hito**: Aislamiento de micro-VM y puerta de atestación de sandbox efímero
 
 ### webarcheology-mcp (v1.14.0)
@@ -32,10 +32,10 @@
 ### omni-control-mcp (v1.13.0)
 - **Características del Hito**: PKI CA de confianza cero y malla mTLS con 28 herramientas MCP
 
-### omnibrowse (v0.17.0)
+### omnibrowse (v0.22.0)
 - **Características del Hito**: Motor de transporte inteligente HTTP/3 y QUIC
 
-### remote-auto-ai-worker (v1.15.0)
+### remote-auto-ai-worker (v1.20.0)
 - **Características del Hito**: Política de seguridad de contenido (CSP) y sintetizador SRI dinámico
 
 ### vidcompact-mcp (v1.11.0)

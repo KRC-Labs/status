@@ -12,14 +12,14 @@
 ## 1. Sistemas de Execução e Ferramentas Dev
 
 ### vibeside-mcp
-- **Versão Atual**: `v0.30.0`
+- **Versão Atual**: `v0.33.0`
 - **Alvo de Execução**: Node.js >= 20.0.0 / Standalone Native Binary
 - **Protocolo**: Model Context Protocol (MCP) v1.0
 - **Telemetria**: FastMCP Direct IPC / CDP Port 9315
 - **Recursos Principais**: Telemetria FPS no cliente & inspetor de camadas GPU
 
 ### omnibrowse
-- **Versão Atual**: `v0.17.0`
+- **Versão Atual**: `v0.22.0`
 - **Alvo de Execução**: Rust 1.80+ (Dual-Core Engine)
 - **Recursos Principais**: Motor de transporte inteligente HTTP/3 & QUIC
 
@@ -28,12 +28,12 @@
 ## 2. Sistemas Distribuídos e de Segurança
 
 ### remote-auto-ai-worker
-- **Versão Atual**: `v1.15.0`
+- **Versão Atual**: `v1.20.0`
 - **Alvo de Execução**: TypeScript Serverless Gateway
 - **Recursos Principais**: Política de segurança de conteúdo (CSP) & sintetizador SRI
 
 ### vulnforge-mcp
-- **Versão Atual**: `v1.25.0`
+- **Versão Atual**: `v1.29.0`
 - **Alvo de Execução**: Static & Dynamic Forensic Engine
 - **Recursos Principais**: Isolamento de micro-VM & gateway de sandbox efêmero
 

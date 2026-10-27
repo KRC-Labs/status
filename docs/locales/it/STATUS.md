@@ -12,14 +12,14 @@
 ## 1. Sistemi Runtime & DevTools
 
 ### vibeside-mcp
-- **Versione Attuale**: `v0.30.0`
+- **Versione Attuale**: `v0.33.0`
 - **Target Runtime**: Node.js >= 20.0.0 / Standalone Native Binary
 - **Protocollo**: Model Context Protocol (MCP) v1.0
 - **Telemetria**: FastMCP Direct IPC / CDP Port 9315
 - **Caratteristiche**: Telemetria FPS lato client & ispettore layer GPU
 
 ### omnibrowse
-- **Versione Attuale**: `v0.17.0`
+- **Versione Attuale**: `v0.22.0`
 - **Target Runtime**: Rust 1.80+ (Dual-Core Engine)
 - **Caratteristiche**: Motore di trasporto intelligente HTTP/3 & QUIC
 
@@ -28,12 +28,12 @@
 ## 2. Sistemi Distribuiti & di Sicurezza
 
 ### remote-auto-ai-worker
-- **Versione Attuale**: `v1.15.0`
+- **Versione Attuale**: `v1.20.0`
 - **Target Runtime**: TypeScript Serverless Gateway
 - **Caratteristiche**: Politica di sicurezza dei contenuti (CSP) & sintetizzatore SRI
 
 ### vulnforge-mcp
-- **Versione Attuale**: `v1.25.0`
+- **Versione Attuale**: `v1.29.0`
 - **Target Runtime**: Static & Dynamic Forensic Engine
 - **Caratteristiche**: Isolamento micro-VM & gateway di attestazione sandbox
 

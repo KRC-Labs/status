@@ -9,9 +9,9 @@
 
 ---
 
-## [2026-10-25] — Milestone 2026.Q4
+## [2026-10-27] — Milestone 2026.Q4
 
-### vibeside-mcp (v0.30.0)
+### vibeside-mcp (v0.33.0)
 - **Recursos do Marco**: Telemetria FPS no cliente & inspetor de camadas GPU
 
 ### binvibe (v0.29.0)
@@ -20,7 +20,7 @@
 ### netvibe (v0.5.0)
 - **Recursos do Marco**: Forense de protocolos de controle autônomo BGP-4 e OSPF
 
-### vulnforge-mcp (v1.25.0)
+### vulnforge-mcp (v1.29.0)
 - **Recursos do Marco**: Isolamento de micro-VM & gateway de sandbox efêmero
 
 ### webarcheology-mcp (v1.14.0)
@@ -32,10 +32,10 @@
 ### omni-control-mcp (v1.13.0)
 - **Recursos do Marco**: Zero-Trust PKI CA & malha mTLS com 28 ferramentas MCP
 
-### omnibrowse (v0.17.0)
+### omnibrowse (v0.22.0)
 - **Recursos do Marco**: Motor de transporte inteligente HTTP/3 & QUIC
 
-### remote-auto-ai-worker (v1.15.0)
+### remote-auto-ai-worker (v1.20.0)
 - **Recursos do Marco**: Política de segurança de conteúdo (CSP) & sintetizador SRI
 
 ### vidcompact-mcp (v1.11.0)

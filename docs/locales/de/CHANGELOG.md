@@ -9,9 +9,9 @@
 
 ---
 
-## [2026-10-25] — Milestone 2026.Q4
+## [2026-10-27] — Milestone 2026.Q4
 
-### vibeside-mcp (v0.30.0)
+### vibeside-mcp (v0.33.0)
 - **Meilenstein-Hauptfunktionen**: Client-FPS-Telemetrie & GPU-Kompositions-Inspektor
 
 ### binvibe (v0.29.0)
@@ -20,7 +20,7 @@
 ### netvibe (v0.5.0)
 - **Meilenstein-Hauptfunktionen**: Autonome BGP-4 & OSPFv2/OSPFv3 Protokollforensik
 
-### vulnforge-mcp (v1.25.0)
+### vulnforge-mcp (v1.29.0)
 - **Meilenstein-Hauptfunktionen**: Mikro-VM-Isolation & temporäres Sandbox-Gate
 
 ### webarcheology-mcp (v1.14.0)
@@ -32,10 +32,10 @@
 ### omni-control-mcp (v1.13.0)
 - **Meilenstein-Hauptfunktionen**: Zero-Trust PKI CA & mTLS-Mesh mit 28 MCP-Tools
 
-### omnibrowse (v0.17.0)
+### omnibrowse (v0.22.0)
 - **Meilenstein-Hauptfunktionen**: Intelligente HTTP/3 & QUIC Transport-Engine
 
-### remote-auto-ai-worker (v1.15.0)
+### remote-auto-ai-worker (v1.20.0)
 - **Meilenstein-Hauptfunktionen**: Content Security Policy (CSP) & dynamischer SRI-Synthesizer
 
 ### vidcompact-mcp (v1.11.0)

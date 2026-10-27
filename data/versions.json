@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-10-27T01:31:39.416Z",
+  "versions": {
+    "vibeside-mcp": "v0.33.0",
+    "binvibe": "v0.29.0",
+    "netvibe": "v0.5.0",
+    "vulnforge-mcp": "v1.29.0",
+    "webarcheology-mcp": "v1.14.0",
+    "omni-audio-mcp": "v1.0.0",
+    "omni-control-mcp": "v1.13.0",
+    "omnibrowse": "v0.22.0",
+    "remote-auto-ai-worker": "v1.20.0",
+    "vidcompact-mcp": "v1.11.0"
+  }
+}

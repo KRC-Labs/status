@@ -9,9 +9,9 @@
 
 ---
 
-## [2026-10-25] — Milestone 2026.Q4
+## [2026-10-27] — Milestone 2026.Q4
 
-### vibeside-mcp (v0.30.0)
+### vibeside-mcp (v0.33.0)
 - **Milestone Features**: Client-side FPS telemetry & GPU compositing layer inspector
 
 ### binvibe (v0.29.0)
@@ -20,7 +20,7 @@
 ### netvibe (v0.5.0)
 - **Milestone Features**: Autonomous BGP-4 & OSPFv2/OSPFv3 control-plane forensics
 
-### vulnforge-mcp (v1.25.0)
+### vulnforge-mcp (v1.29.0)
 - **Milestone Features**: Micro-VM isolation & ephemeral sandbox attestation gate
 
 ### webarcheology-mcp (v1.14.0)
@@ -32,10 +32,10 @@
 ### omni-control-mcp (v1.13.0)
 - **Milestone Features**: Zero-Trust PKI CA & mTLS Mesh with 28 core MCP tools
 
-### omnibrowse (v0.17.0)
+### omnibrowse (v0.22.0)
 - **Milestone Features**: Intelligent HTTP/3 & QUIC transport engine
 
-### remote-auto-ai-worker (v1.15.0)
+### remote-auto-ai-worker (v1.20.0)
 - **Milestone Features**: Content Security Policy & Dynamic SRI Synthesizer
 
 ### vidcompact-mcp (v1.11.0)

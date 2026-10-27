@@ -9,9 +9,9 @@
 
 ---
 
-## [2026-10-25] — Milestone 2026.Q4
+## [2026-10-27] — Milestone 2026.Q4
 
-### vibeside-mcp (v0.30.0)
+### vibeside-mcp (v0.33.0)
 - **マイルストーン主要機能**: クライアント側FPSテレメトリ監視＆GPUコンポジットレイヤインスペクタ
 
 ### binvibe (v0.29.0)
@@ -20,7 +20,7 @@
 ### netvibe (v0.5.0)
 - **マイルストーン主要機能**: 自律型BGP-4およびOSPFv2/OSPFv3制御プレーンプロトコルフォレンジック
 
-### vulnforge-mcp (v1.25.0)
+### vulnforge-mcp (v1.29.0)
 - **マイルストーン主要機能**: 自動マイクロVM分離＆エフェメラルサンドボックス構成認証ゲート
 
 ### webarcheology-mcp (v1.14.0)
@@ -32,10 +32,10 @@
 ### omni-control-mcp (v1.13.0)
 - **マイルストーン主要機能**: ゼロトラストPKI CAおよび28コアMCPツール搭載mTLSメッシュ
 
-### omnibrowse (v0.17.0)
+### omnibrowse (v0.22.0)
 - **マイルストーン主要機能**: インテリジェントHTTP/3＆QUIC高速トランスポートエンジン
 
-### remote-auto-ai-worker (v1.15.0)
+### remote-auto-ai-worker (v1.20.0)
 - **マイルストーン主要機能**: コンテンツセキュリティポリシー(CSP)＆動的SRIシンセサイザー
 
 ### vidcompact-mcp (v1.11.0)

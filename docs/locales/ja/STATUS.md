@@ -12,14 +12,14 @@
 ## 1. ランタイム＆開発ツール群
 
 ### vibeside-mcp
-- **現在バージョン**: `v0.30.0`
+- **現在バージョン**: `v0.33.0`
 - **ランタイムターゲット**: Node.js >= 20.0.0 / Standalone Native Binary
 - **プロトコル**: Model Context Protocol (MCP) v1.0
 - **テレメトリ**: FastMCP Direct IPC / CDP Port 9315
 - **主要機能**: クライアント側FPSテレメトリ監視＆GPUコンポジットレイヤインスペクタ
 
 ### omnibrowse
-- **現在バージョン**: `v0.17.0`
+- **現在バージョン**: `v0.22.0`
 - **ランタイムターゲット**: Rust 1.80+ (Dual-Core Engine)
 - **主要機能**: インテリジェントHTTP/3＆QUIC高速トランスポートエンジン
 
@@ -28,12 +28,12 @@
 ## 2. 分散コンピューティング＆セキュリティ群
 
 ### remote-auto-ai-worker
-- **現在バージョン**: `v1.15.0`
+- **現在バージョン**: `v1.20.0`
 - **ランタイムターゲット**: TypeScript Serverless Gateway
 - **主要機能**: コンテンツセキュリティポリシー(CSP)＆動的SRIシンセサイザー
 
 ### vulnforge-mcp
-- **現在バージョン**: `v1.25.0`
+- **現在バージョン**: `v1.29.0`
 - **ランタイムターゲット**: Static & Dynamic Forensic Engine
 - **主要機能**: 自動マイクロVM分離＆エフェメラルサンドボックス構成認証ゲート
 

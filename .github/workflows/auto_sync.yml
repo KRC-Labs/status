@@ -1,0 +1,70 @@
+name: Automated Systems Status Sync & Multi-Language Parity
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at 00:00 UTC
+  workflow_dispatch:
+    inputs:
+      system:
+        description: 'Target system name (e.g., vibeside-mcp, binvibe, omnibrowse...)'
+        required: false
+        default: ''
+      version:
+        description: 'New version string (e.g., v0.34.0)'
+        required: false
+        default: ''
+  repository_dispatch:
+    types: [status_update, release_sync]
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - 'data/**'
+      - '.github/workflows/auto_sync.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync-status:
+    name: Sync Status & Validate Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Status Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js Runtime
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Execute 12-Language Matrix Parity & Verification
+        run: |
+          ARGS=""
+          # Check repository_dispatch payload
+          if [ -n "${{ github.event.client_payload.system }}" ] && [ -n "${{ github.event.client_payload.version }}" ]; then
+            ARGS="--system ${{ github.event.client_payload.system }} --version ${{ github.event.client_payload.version }}"
+          # Check workflow_dispatch inputs
+          elif [ -n "${{ github.event.inputs.system }}" ] && [ -n "${{ github.event.inputs.version }}" ]; then
+            ARGS="--system ${{ github.event.inputs.system }} --version ${{ github.event.inputs.version }}"
+          fi
+
+          echo "Running: node scripts/update_status.mjs $ARGS"
+          node scripts/update_status.mjs $ARGS
+
+      - name: Commit & Push Synchronized Metadata
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "✔ No status changes detected. Repository is already up to date."
+          else
+            git commit -m "chore(status): automated 12-language status sync [skip ci]"
+            git push origin main
+            echo "🎉 Successfully pushed updated status matrix to main!"
+          fi

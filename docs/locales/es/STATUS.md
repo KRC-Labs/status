@@ -12,14 +12,14 @@
 ## 1. Sistemas de Tiempo de Ejecución y DevTools
 
 ### vibeside-mcp
-- **Versión Actual**: `v0.30.0`
+- **Versión Actual**: `v0.33.0`
 - **Objetivo de Ejecución**: Node.js >= 20.0.0 / Standalone Native Binary
 - **Protocolo**: Model Context Protocol (MCP) v1.0
 - **Telemetría**: FastMCP Direct IPC / CDP Port 9315
 - **Funciones Clave**: Observador de telemetría FPS y capa de composición GPU
 
 ### omnibrowse
-- **Versión Actual**: `v0.17.0`
+- **Versión Actual**: `v0.22.0`
 - **Objetivo de Ejecución**: Rust 1.80+ (Dual-Core Engine)
 - **Funciones Clave**: Motor de transporte inteligente HTTP/3 y QUIC
 
@@ -28,12 +28,12 @@
 ## 2. Sistemas Distribuidos y de Seguridad
 
 ### remote-auto-ai-worker
-- **Versión Actual**: `v1.15.0`
+- **Versión Actual**: `v1.20.0`
 - **Objetivo de Ejecución**: TypeScript Serverless Gateway
 - **Funciones Clave**: Política de seguridad de contenido (CSP) y sintetizador SRI dinámico
 
 ### vulnforge-mcp
-- **Versión Actual**: `v1.25.0`
+- **Versión Actual**: `v1.29.0`
 - **Objetivo de Ejecución**: Static & Dynamic Forensic Engine
 - **Funciones Clave**: Aislamiento de micro-VM y puerta de atestación de sandbox efímero
 
