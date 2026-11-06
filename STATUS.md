@@ -72,7 +72,7 @@
 - **Key Features**: 512-band FFT audio spectrum telemetry
 
 
-## ui-design-spectrum (Updated 2026-11-06T03:47:07.344Z)
+## ui-design-spectrum (Updated 2026-11-06T03:47:51.190Z)
 
 <details><summary><b>EN Status</b></summary>
 
