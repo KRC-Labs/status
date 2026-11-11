@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:29:33.710Z",
+  "updated_at": "2026-11-11T22:44:56.546Z",
   "versions": {
     "vibeside-mcp": "v0.33.0",
     "binvibe": "v0.29.0",
@@ -10,6 +10,6 @@
     "omni-control-mcp": "v1.15.0",
     "omnibrowse": "v0.22.0",
     "remote-auto-ai-worker": "v1.20.0",
-    "vidcompact-mcp": "v1.55.0"
+    "vidcompact-mcp": "v1.56.0"
   }
 }

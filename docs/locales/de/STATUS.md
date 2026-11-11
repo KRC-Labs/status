@@ -62,7 +62,7 @@
 - **Hauptfunktionen**: Client-Sicherheitsheader & CSP-Bypass-Simulator
 
 ### vidcompact-mcp
-- **Aktuelle Version**: `v1.55.0`
+- **Aktuelle Version**: `v1.56.0`
 - **Laufzeitziel**: C++/Node.js Media Pipeline
 - **Hauptfunktionen**: Hardwarebeschleunigte 2-Pass-Kodierung & Zielgrößen-Kompression
 
